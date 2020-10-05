@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dnd-website/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dnd-website/static/js/main.3cf057fe.chunk.js",
+    "main.js.map": "/dnd-website/static/js/main.3cf057fe.chunk.js.map",
+    "runtime-main.js": "/dnd-website/static/js/runtime-main.c39b6b3a.js",
+    "runtime-main.js.map": "/dnd-website/static/js/runtime-main.c39b6b3a.js.map",
+    "static/js/2.a51ad747.chunk.js": "/dnd-website/static/js/2.a51ad747.chunk.js",
+    "static/js/2.a51ad747.chunk.js.map": "/dnd-website/static/js/2.a51ad747.chunk.js.map",
+    "index.html": "/dnd-website/index.html",
+    "precache-manifest.d441c90714fbe8000e956e7f467f76d3.js": "/dnd-website/precache-manifest.d441c90714fbe8000e956e7f467f76d3.js",
+    "service-worker.js": "/dnd-website/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dnd-website/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a51ad747.chunk.js.LICENSE.txt": "/dnd-website/static/js/2.a51ad747.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dnd-website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c39b6b3a.js",
+    "static/js/2.a51ad747.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3cf057fe.chunk.js"
+  ]
+}
